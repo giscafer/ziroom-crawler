@@ -1,0 +1,26 @@
+{
+  "name": "ziroom-crawler",
+  "version": "1.0.0",
+  "description": "自如友家租房，房源爬虫，房源状态监听，目的是抢房",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giscafer/ziroom-crawler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giscafer/ziroom-crawler/issues"
+  },
+  "homepage": "https://github.com/giscafer/ziroom-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cron": "^1.3.0",
+    "nodemailer": "^4.6.7",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "superagent": "^3.8.3"
+  }
+}
