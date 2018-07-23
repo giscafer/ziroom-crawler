@@ -2,7 +2,7 @@
 自如友家租房，房源爬虫，房源状态监听，目的是抢房
 
 
-## 使用
+## Usage
 
 **修改的地方**
 
@@ -34,3 +34,10 @@ const mail_opts = {
 `node index`
 
 
+## Screenshot
+
+<img src="./demo/1.png" width="400">
+<br>
+<img src="./demo/2.png" width="400">
+<br>
+<img src="./demo/3.jpg" width="400">
