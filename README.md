@@ -30,8 +30,8 @@ const mail_opts = {
 ```
 
 ### 运行
-
-`node index`
+- `npm install`
+- `node index`
 
 
 ## Screenshot
